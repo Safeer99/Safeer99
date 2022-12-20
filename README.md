@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.ibb.co/0V6fJ8J/output-onlinegiftools.gif" align="center" style="width: 60%" />
+ 
+ ![helloWorld](https://user-images.githubusercontent.com/98336331/208739965-70b5f380-37cb-44b2-95d5-8e21132a626c.gif)
+ 
 </div>  
-  
-
-### <div align="center">I'm Safeer, a full-stack developer 👨‍💻</div>  
+<div align="center">I'm Safeer, currently on a journey to become a full-stack web developer 👨‍💻</div>  
   
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
