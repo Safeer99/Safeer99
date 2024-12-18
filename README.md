@@ -62,8 +62,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/safeer.ansari.786" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23990070.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://linkedin.com/in/safeer-anwar-b5a139208" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%23232399.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
