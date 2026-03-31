@@ -5,7 +5,7 @@
  ![helloWorld](https://safeer99.github.io/images/profile/helloWorld.gif)
  
 </div>  
-<div align="center">I'm Safeer, a passionate web developer based in India 👨‍💻</div>  
+<div align="center">I'm Safeer, a passionate Full-Stack developer based in India 👨‍💻</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Safeer99&&style=flat-square" align="center" />
@@ -15,7 +15,7 @@
 - ✨ Creating bugs since 2021
 
 
-- 🌱 I’m currently learning App development  
+- 🌱 I’m currently learning Spring-boot
   
 
 - ❓ Ask me about anything related to MERN stack, react and javascript
